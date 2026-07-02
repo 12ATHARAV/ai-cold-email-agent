@@ -1,4 +1,4 @@
-# LinkedIn Cold Outreach AI Agent (100% Free)
+# LinkedIn Cold Outreach AI Agent
 
 A Telegram-integrated AI agent that accepts LinkedIn post URLs, scrapes data, researches companies, finds contact emails, drafts customized precise cold emails referencing your GitHub portfolio and resume, and automatically sends them via Gmail SMTP upon approval—running 24/7 at **zero cost**.
 
